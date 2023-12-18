@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Detection of Defects in Adhesive Coating Based on Machine Vision",
+    "author": "Xinrui Tao, Hanjun Gao, Qiong Wu, Changyu He, Luoyi Zhang, Yifan Zhao",
+    "imageSrc": "images/DetectionofDefectsinAdhesiveCoatingBasedonMachineVision.png",
+    "conference": "IEEE Sensors Journal, Accpet"
+  },
+  {
+    "title": "Expanding Defect Images Datasets of Composite Material Coating with Enhanced Pix2Pix(E-Pix2Pix)",
+    "author": "Xinrui Tao, Hanjun Gao, Kai Yang, Qiong Wu",
+    "imageSrc": "https://my.52txr.cn/UNET.png",
+    "conference": "Engineering Applications of Artificial Intelligence, Under Review"
+  },
+  {
+    "title": "Review of Control Strategy for Steady Movement of Pneumatic Manipulator",
+    "author": "Xinrui Tao, Chunyan Gao, Xuan Chen, Zheng Pan",
+    "imageSrc": "https://my.52txr.cn/QiDongjixieshou.png",
+    "conference": "CHINESE HYDRAULICS AND PNEUMATICS, Volume 12, 2021",
+    "pdfLink": "paper/Review_of_Control_Strategy_for_Steady_Movement_of_Pneumatic_Manipulator.pdf"
+  },
+  {
+    "title": "Analyze the influence of carburized layer thickness and assembly error on the reliability of thin-walled gear ring system based on ABAQUS",
+    "author": "Xinrui Tao, Jing Guo, Minghui Lin, Hanjun Gao",
+    "imageSrc": "https://my.52txr.cn/GEARCONFERENCE.png",
+    "conference": "Proceedings of SPIE - The International Society for Optical Engineering, Volume 12922, 2023",
+    "pdfLink": "paper/Analyze_the_influence_of_carburized_layer_thickness_and_assembly_error_on_the_reliability_of_thin-walled_gear_ring_system_based_on_ABAQUS.pdf"
+  },
+  {
+    "title": "Parametric modeling and finite element simulation of gear ring system based on creo and ABAQUS",
+    "author": "Jing Guo, Xinrui Tao, Minghui Lin, Hanjun Gao",
+    "imageSrc": "https://my.52txr.cn/GEARCONFERENCE22.png",
+    "conference": "Proceedings of SPIE - The International Society for Optical Engineering, Volume 12922, 2023",
+    "pdfLink": "paper/Parametric_modeling_and_finite_element_simulation_of_gear_ring_system_based_on_creo_and_ABAQUS.pdf"
+  }
+]

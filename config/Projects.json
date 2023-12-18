@@ -1,0 +1,26 @@
+[
+  {
+    "status": "Doing",
+    "dateRange": "2023.12 - ?",
+    "imageSrc": "https://my.52txr.cn/digialtwin.png",
+    "text": "Currently, I am engaged in the implementation of digital twin technology for a production line. Digital twin technology, as a fundamental component of the industrial internet, offers robust assistance in facilitating the intelligent enhancement of production lines. By applying digital twin technology, it is possible to simulate and optimize the entire process of the unit processing and manufacturing production line. This allows for accurate analysis and evaluation of the effects of various process parameters on production efficiency. Consequently, the process flow can be optimized, leading to improved production efficiency and the attainment of maximum production capacity. The utilization of digital twin technology in intelligent production lines serves to enhance the level of intelligence in these lines, as well as facilitate the advancement of the overall intelligent manufacturing sector. Digital twin technology enables the gathering, examination, and enhancement of production data, facilitating data-based intelligent decision-making assistance for industrial manufacturing. This technology also drives the manufacturing industry towards intelligence, efficiency, and sustainable development."
+  },
+  {
+    "status": "Doing",
+    "dateRange": "2023.12 - ?",
+    "imageSrc": "https://my.52txr.cn/CreepDeformationDetection.png",
+    "text": "In order to tackle the challenging issues of matching feature points and detecting three-dimensional deformation in creep deformation detection of complex components, our team utilize advanced feature point extraction and matching algorithms to improve the applicability and reliability of the vision method in complex components. Accurate tracking of the mobility of specific places enables precise measurement of full-field strain. In order to mitigate the problem of imaging instability resulting from camera platform jitter and ground vibration, we have designed a mechanical stabilization clamping structure. This design efficiently mitigates the influence of external vibrations and jitter on the system. Within a high-temperature non-vacuum environment, the refractive index of the imaging undergoes non-linear changes as a result of the fluctuating temperature field. This poses a difficulty in precisely capturing the accurate information of the high-temperature object in the measurement findings. Hence, there is an urgent requirement for a compensation approach that is both real-time and efficient in adjusting for the refraction of the imaging light in response to changes in temperature."
+  },
+  {
+    "status": "Finished",
+    "dateRange": "2023.07 - 2023.12",
+    "imageSrc": "https://my.52txr.cn/DefectGenerated.png",
+    "text": "In order to tackle the problem of an insufficient industrial defect dataset, we propose an E-Pix2Pix methodology with the aim of generating an enormous amount of defect images of superior quality. The primary contribution of this study resides in the advancement of Pix2Pix through additional enhancements. The improvement in the quality of the generated images is accomplished by implementing a more complex U-Net architecture and integrating attention mechanisms. Furthermore, this study investigates the impact of various convolution kernel sizes and the coefficient of the L1 loss function on the performance of generation. Moreover, this study aims to explore the influence of the content of generated images on the accuracy of classification."
+  },
+  {
+    "status": "Finished",
+    "dateRange": "2023.04 - 2023.09",
+    "imageSrc": "https://my.52txr.cn/DefectDefectionImage.png",
+    "text": "The integrity of adhesive coating between propellant and insulation rubber significantly affects the stability of the functional interface and the service reliability of solid engines. The high aspect ratio and unstable lighting condition of the engine make it very difficult to inspect the coating integrity with the naked eye. More and more research is focused on using machine vision to detect defects. Limited by the size of the dataset, the current machine vision accuracy can not reach very high, and only limited to one application scenario. It is challenging to adapt to other scenarios of defect detection. In this paper, a machine vision detection method for lining spraying process adhesive coating defects is proposed, which realizes the accurate identification of defects in the coating integrity. The deflection compensation of the detection device and the adaptability design between the camera and the lens are fully considered, and a transfer learning model based on residual network is built with TensorFlow to achieve high-precision classification and recognition of defects. The model is trained by incrementally reducing the freezing layer of the model and the learning rate several times. Results show that the recognition accuracy can reach 100% on the training dataset and 96.15% on the validation. This vision method provides a fast and accurate method for engine liner coating defect detection, and it is about to be used in real industrial sites."
+  }
+]
