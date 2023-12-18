@@ -2,15 +2,15 @@
   {
     "title": "Qixi Intelligent Formula Recognition Software",
     "developer": "Xinrui Tao, an independent developer",
-    "imageSrc": "https://my.52txr.cn/LatexQIXI.png",
-    "link": "paper/QIXIGONGSHI.png",
+    "imageSrc": "images/LatexQIXI.png",
+    "link": "paper/test_page.pdf",
     "registrationInfo": "Registration Number: 2023SR0591165"
   },
   {
     "title": "One click to convert batch JSON files to PNG images tool",
     "developer": "Xinrui Tao, an independent developer",
-    "imageSrc": "https://my.52txr.cn/json2png.png",
-    "link": "paper/JSON2PNG.png",
+    "imageSrc": "images/json2png.png",
+    "link": "paper/test_page.pdf",
     "registrationInfo": "Registration Number: 2023SR1112202"
   }
 ]
